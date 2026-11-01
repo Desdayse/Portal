@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+PortalDebug.spec
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+.portal-transfer-*/
+release/
+.tools/
